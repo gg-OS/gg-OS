@@ -4,6 +4,8 @@
 - In this environment I seek to form bonds with ambitious developers and all kinds of people of dev environment, I think that growth isn't a lone path
 - Fell totally free to send me a message on my Twitter account, I'd love to create strong and mutual bonds
 
+
+
 <div align="center">
   <a href="https://github.com/gg-OS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gg-OS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
