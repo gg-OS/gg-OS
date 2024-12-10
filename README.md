@@ -2,8 +2,8 @@
 I'm Guilherme Sendim, a Python Developer.
 <div>
   <a href="https://github.com/gg-OS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=holfter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holfter&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gg-OS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg-OS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
